@@ -2,7 +2,8 @@
 
 Press 's' to save jpg
 
-https://editor.p5js.org/jacob.smerl32/sketches/o6lU5gtph
+1. https://editor.p5js.org/jacob.smerl32/sketches/o6lU5gtph
+2. https://editor.p5js.org/jacob.smerl32/full/o6lU5gtph 
 
 ![capture1](https://user-images.githubusercontent.com/71095834/118542895-9bc33f00-b721-11eb-8ad5-1f4f504680be.jpg)
 ![capture2](https://user-images.githubusercontent.com/71095834/118542910-9ebe2f80-b721-11eb-8932-2c6ea380727a.jpg)
